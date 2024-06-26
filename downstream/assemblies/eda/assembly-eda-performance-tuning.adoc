@@ -6,6 +6,8 @@
 
 * Characterizing your workload
 * System level monitoring 
+* Performance troubleshooting
 
-
-
+include::eda/con-characterizing-your-workload.adoc[leveloffset=+1]
+include::eda/con-system-level-monitoring.adoc[leveloffset=+1]
+include::eda/ref-performance-troubleshooting.adoc[leveloffset=+1]
