@@ -13,6 +13,7 @@ Based on the default parameters within {EDAcontroller}, you might encounter scen
 
 * My activation keeps restarting in an infinite loop.
 ** By default, the reset policy for rulebook activations is set to “on failure”. The restart policy can be changed by using the following procedure:
+
 *** *Procedure*
 . Navigate to the Rulebook Activation screen.
 . Click the Restart Policy drop down menu. 
